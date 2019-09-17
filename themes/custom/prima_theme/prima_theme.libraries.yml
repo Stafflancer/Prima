@@ -1,0 +1,9 @@
+default:
+  css:
+    theme:
+      css/custom.css: {}
+  js:
+    # js/script.js: {}
+  dependencies:
+    - core/jquery
+  

@@ -1,0 +1,10 @@
+name: Prima theme
+type: theme
+description: 'Custom theme.'
+package: Core
+version: VERSION
+core: 8.x
+base theme: false
+
+libraries:
+  - prima_theme/default

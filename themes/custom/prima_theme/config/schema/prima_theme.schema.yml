@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Off Broadway Show theme.
+
+prima_theme.settings:
+  type: theme_settings
+  label: 'Prima settings'

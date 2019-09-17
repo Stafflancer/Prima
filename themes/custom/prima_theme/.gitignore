@@ -1,0 +1,9 @@
+#IDE
+.sass-cache
+.idea
+.DS_Store
+bower_components
+node_modules
+npm-debug.log
+extensions_modules
+upload
