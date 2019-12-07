@@ -1,4 +1,6 @@
 name: Prima theme
+developer = Christopher Akinboboye
+developer url = https://stafflancer.com
 type: theme
 description: 'Custom theme.'
 package: Core
